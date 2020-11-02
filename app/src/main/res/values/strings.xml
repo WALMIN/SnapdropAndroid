@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Snapdrop Android</string>
+
+    <string name="snapdropURL">https://snapdrop.net</string>
+    <string name="errorPageURL">file:///android_asset/error.html</string>
+
+    <!-- Download -->
+    <string name="noDownloadFeatureTitle">Download</string>
+    <string name="noDownloadFeature">The download feature is not working yet, sorry for any inconvenience. Use a browser if you want to download a file.</string>
+
+    <!-- Upload -->
+    <string name="fileChooser">File chooser</string>
+    <string name="errorOpeningChooser">Error opening file chooser.</string>
+    <string name="uploadFailed">Failed to upload file, try again.</string>
+
+    <!-- Buttons -->
+    <string name="close">Close</string>
+    <string name="browser">Open browser</string>
+
+</resources>
